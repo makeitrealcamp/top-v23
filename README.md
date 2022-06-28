@@ -1,15 +1,22 @@
-# Programa Top v__ -  Tiempo _______
+# Programa Top v23 -  Tiempo Completo
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
-- [Nombre del mentor](profiles/mentor-principal.md)
-- Mentor 2
+- [Cristian Moreno](profiles/mentor-principal.md)
+- Cristian Buitrago
 - Mentor 3
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-- Estudiante 1
-- Estudiante 2
-- Estudiante 3
-- ...
+- Bryan Steeven Estrada Meza
+- Sergio Andres Moncada Ojara
+- Juan Pablo Diaz Arcila
+- Adrián Camilo Villa Jimenez
+- Roy Andres Huaman Avila
+- Andrés Berrío Forero
+- Guillermo Alexander Garzón Díaz
+- David Steven Pineda Ordoñez
+- Carlos Javier Beltrán Ruiloba
+- Jessica Paola Martínez Alee
+- Carlos Mauricio Arango Ríos
 
 ## Como es un dia de estudio durante el programa TOP?
 
@@ -96,3 +103,8 @@ Los lineamientos para los proyectos individuale y grupales son estos:
     3. Metodología (Jira, Github, SCRUM, sprintes)
     4. Tecnologías (React, Material, Express, [Socket.io](http://socket.io/), MongoDB, )
     5. Diagrama de como esta distribuida su aplicacion (arquitectura) backend, frontend, servicios extras
+
+## Recursos:
+- [Classroom](https://classroom.makeitreal.camp/)
+- [Make It Real Platform](https://makeitreal.camp/dashboard)
+- [Make It Real Guias](https://guias.makeitreal.camp/)
