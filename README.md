@@ -55,16 +55,16 @@ Pueden ocurrir varias actividades en este rango de tiempo
 
 ## Entregables proyecto grupal 💻🤝
 
-- **Modulo 1**: Wireframes y backlog del proyecto e Historias de usuario.
-- **Modulo 2**: Mockups del proyecto y Layout en HTML, CSS.
-- **Modulo 3**: Implementación de los mockups en react.
-- **Modulo 4**: Navegacion de la aplicación con datos MOCK Y Despliegue en netlify.
-- **Modulo 5**: Diseno de base de datos, Modelo de datos y servidor express.
-- **Modulo 6**: Servicios backend conectores a base de datos: REST API.
-- **Modulo 7**: Pruebas: Backend y Frontend.
-- **Modulo 8**: Envio de email e Integración con pasarela de pagos.
-- **Modulo 9**: CI/CD del backend y el frontend.
-- **Modulo 10**: `DEMO Publico` 🎊🎉💻🎊🎉
+- **Sprint 1**: Backlog del proyecto e historias de usuario.
+- **Sprint 2**: Mockups del proyecto y Layout en HTML, CSS.
+- **Sprint 3**: Implementación de los mockups en react.
+- **Sprint 4**: Navegacion de la aplicación con datos MOCK Y Despliegue en netlify.
+- **Sprint 5**: Diseno de base de datos, Modelo de datos y servidor express.
+- **Sprint 6**: Servicios backend conectores a base de datos: REST API.
+- **Sprint 7**: Pruebas: Backend y Frontend.
+- **Sprint 8**: Envio de email e Integración con pasarela de pagos.
+- **Sprint 9**: CI/CD del backend y el frontend.
+- **Sprint 10**: `DEMO Publico` 🎊🎉💻🎊🎉
 
 ## Requisitos para culminar satisfactoriamente el programa
 
@@ -81,6 +81,8 @@ Los lineamientos para los proyectos individuale y grupales son estos:
 
 **El Proyecto Grupal debe tener:**
 
+- El Figma es una guía, el resultado no debe quedar igual.
+- Debe ser responsive (mobile first).
 - Registro y autenticación de usuarios.
 - Almacenar información en una base de datos (MongoDB).
 - El backend debe estar implementado en Node.js (Express) y el frontend en React.
