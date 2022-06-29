@@ -8,7 +8,7 @@
 - Bryan Steeven Estrada Meza
 - Sergio Andres Moncada Ojara
 - Juan Pablo Diaz Arcila
-- Adrián Camilo Villa Jimenez
+- [Adrián Camilo Villa Jimenez](profiles/AdrianVilla.md)
 - Roy Andres Huaman Avila
 - Andrés Berrío Forero
 - Guillermo Alexander Garzón Díaz
