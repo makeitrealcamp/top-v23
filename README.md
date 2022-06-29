@@ -13,7 +13,7 @@
 - Andrés Berrío Forero
 - Guillermo Alexander Garzón Díaz
 - David Steven Pineda Ordoñez
-- Carlos Javier Beltrán Ruiloba
+- [Carlos Beltrán](profiles/carlosBeltran.md)
 - Jessica Paola Martínez Alee
 - Carlos Mauricio Arango Ríos
 
