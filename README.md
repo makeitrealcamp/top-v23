@@ -14,7 +14,7 @@
 - Guillermo Alexander Garzón Díaz
 - David Steven Pineda Ordoñez
 - Carlos Javier Beltrán Ruiloba
-- Jessica Paola Martínez Alee
+- [Jessica Martínez Alee](profiles/JessicaMartinez.md)
 - Carlos Mauricio Arango Ríos
 
 ## Como es un dia de estudio durante el programa TOP?
