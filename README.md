@@ -6,7 +6,7 @@
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 - Bryan Steeven Estrada Meza
-- Sergio Andres Moncada Ojara
+- [Sergio Andres Moncada Ojara] (profiles/sergioMoncada.md)
 - Juan Pablo Diaz Arcila
 - Adrián Camilo Villa Jimenez
 - Roy Andres Huaman Avila
