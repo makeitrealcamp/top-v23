@@ -11,7 +11,7 @@
 - Juan Pablo Diaz Arcila
 - Adrián Camilo Villa Jimenez
 - Roy Andres Huaman Avila
-- Andrés Berrío Forero
+- [Andrés Berrío Forero](profiles/andresBerrio.md)
 - Guillermo Alexander Garzón Díaz
 - David Steven Pineda Ordoñez
 - Carlos Javier Beltrán Ruiloba
