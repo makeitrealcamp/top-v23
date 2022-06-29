@@ -5,7 +5,7 @@
 - Cristian Buitrago
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-- Bryan Steeven Estrada Meza
+- [Bryan Steeven Estrada Meza](profiles/bryanEstrada.md)
 - [Sergio Andres Moncada Ojara](profiles/sergioMoncada.md)
 - Juan Pablo Diaz Arcila
 - Adrián Camilo Villa Jimenez
