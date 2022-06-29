@@ -13,8 +13,9 @@
 - Andrés Berrío Forero
 - [Guillermo Garzón](profiles/guillermogarzon.md)
 - David Steven Pineda Ordoñez
+- Carlos Javier Beltrán Ruiloba
 - [Carlos Beltrán](profiles/carlosBeltran.md)
-- Jessica Paola Martínez Alee
+- [Jessica Martínez Alee](profiles/JessicaMartinez.md)
 - Carlos Mauricio Arango Ríos
 
 ## Como es un dia de estudio durante el programa TOP?
