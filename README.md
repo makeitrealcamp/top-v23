@@ -65,8 +65,12 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - **Sprint 9**: CI/CD del backend y el frontend.
 - **Sprint 10**: `DEMO Publico` 🎊🎉💻🎊🎉
 
-## Requisitos para culminar satisfactoriamente el programa
 
+## Clases
+
+- [Video List](./classes.md)
+
+## Requisitos para culminar satisfactoriamente el programa
 Deberás presentar y aprobar las siguienes misiones:
 
 1. Assesment Frontend.
@@ -76,7 +80,7 @@ Deberás presentar y aprobar las siguienes misiones:
 5. Proyecto Grupal.
 6. Proyecto Individual.
 
-Los lineamientos para los proyectos individuale y grupales son estos: 
+Los lineamientos para los proyectos individuale y grupales son estos:
 
 **El Proyecto Grupal debe tener:**
 
