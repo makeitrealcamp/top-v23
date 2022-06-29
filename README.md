@@ -9,7 +9,7 @@
 - [Sergio Andres Moncada Ojara](profiles/sergioMoncada.md)
 - Juan Pablo Diaz Arcila
 - Adrián Camilo Villa Jimenez
-- Roy Andres Huaman Avila
+- [Roy Andres Huaman Avila](profiles/RoyHuamanAvila.md)
 - Andrés Berrío Forero
 - Guillermo Alexander Garzón Díaz
 - David Steven Pineda Ordoñez
