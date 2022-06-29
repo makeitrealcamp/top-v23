@@ -16,5 +16,3 @@ Hola, Soy Guillermo Garzón. Soy Ingeniero Mecatrónico. Actualmente me encuentr
 - CSS: ⭐️⭐️
 - HTML: ⭐️⭐️
 - Git: ⭐️
-
-
