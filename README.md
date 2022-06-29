@@ -1,34 +1,29 @@
-# Programa Top v23 - Tiempo Completo
+# Programa Top v23 -  Tiempo Completo
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
-
 - [Cristian Moreno](profiles/mentor-principal.md)
 - Cristian Buitrago
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-
 - [Bryan Steeven Estrada Meza](profiles/BryanEstrada.md)
-- Sergio Andres Moncada Ojara
+- [Sergio Andres Moncada Ojara](profiles/sergioMoncada.md)
 - Juan Pablo Diaz Arcila
 - Adrián Camilo Villa Jimenez
 - Roy Andres Huaman Avila
 - Andrés Berrío Forero
 - Guillermo Alexander Garzón Díaz
 - David Steven Pineda Ordoñez
-- Carlos Javier Beltrán Ruiloba
+- [Carlos Beltrán](profiles/carlosBeltran.md)
 - Jessica Paola Martínez Alee
 - Carlos Mauricio Arango Ríos
 
 ## Como es un dia de estudio durante el programa TOP?
 
 ### 8:30 am - 10:00 am:
-
 Clase Magistral con mentor principal
 
 ### 10:00 am - 1:30 pm:
-
 Pueden ocurrir varias actividades en este rango de tiempo
-
 - Clase de habilidades blandas
 - Clase de ingles
 - Reuniones con mentores de apoyo
@@ -40,17 +35,13 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - Terminar los retos o misiones que son asignados en clase
 
 ### 01:00 pm - 2:30 pm
-
 Tiempo para almorzar
 
 ### 02:30 pm - 03:30 pm:
-
 Clase Magistral con mentor principal
 
 ### 03:30 pm - 6:30 pm:
-
 Pueden ocurrir varias actividades en este rango de tiempo
-
 - Clase de habilidades blandas
 - Clase de ingles
 - Reuniones con mentores de apoyo
@@ -74,8 +65,12 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - **Sprint 9**: CI/CD del backend y el frontend.
 - **Sprint 10**: `DEMO Publico` 🎊🎉💻🎊🎉
 
-## Requisitos para culminar satisfactoriamente el programa
 
+## Clases
+
+- [Video List](./classes.md)
+
+## Requisitos para culminar satisfactoriamente el programa
 Deberás presentar y aprobar las siguienes misiones:
 
 1. Assesment Frontend.
@@ -96,9 +91,9 @@ Los lineamientos para los proyectos individuale y grupales son estos:
 - El backend debe estar implementado en Node.js (Express) y el frontend en React.
 - Debe incluir carga de imágenes y envío de correos.
 - Debe tener al menos una de las siguientes funcionalidades:
-  - Pagos
-  - Presentar información en un mapa.
-  - Tiempo Real (Web Sockets).
+    - Pagos
+    - Presentar información en un mapa.
+    - Tiempo Real (Web Sockets).
 - Debe estar desplegada en Internet (Netllify, Heroku, Vercel)
 - Debe al menos tener pruebas end-to-end con Cypress.
 
@@ -108,14 +103,13 @@ Los lineamientos para los proyectos individuale y grupales son estos:
 - Autenticación de usuarios.
 - Debe incluir carga de imágenes.
 - Se debe presentar un video a modo de DEMO de no mas de 7 minutos donde el estudiantes exponga los siguientes temas:
-  1. Introducción (Nombre del proyecto, URL’s).
-  2. Descripción de la aplicación.
-  3. Metodología (Jira, Github, SCRUM, sprintes)
-  4. Tecnologías (React, Material, Express, [Socket.io](http://socket.io/), MongoDB, )
-  5. Diagrama de como esta distribuida su aplicacion (arquitectura) backend, frontend, servicios extras
+    1. Introducción (Nombre del proyecto, URL’s).
+    2. Descripción de la aplicación.
+    3. Metodología (Jira, Github, SCRUM, sprintes)
+    4. Tecnologías (React, Material, Express, [Socket.io](http://socket.io/), MongoDB, )
+    5. Diagrama de como esta distribuida su aplicacion (arquitectura) backend, frontend, servicios extras
 
 ## Recursos:
-
 - [Classroom](https://classroom.makeitreal.camp/)
 - [Make It Real Platform](https://makeitreal.camp/dashboard)
 - [Make It Real Guias](https://guias.makeitreal.camp/)
