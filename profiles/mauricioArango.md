@@ -6,7 +6,7 @@ Mi nombre es Mauricio. Tengo 33 años. Soy licenciado en Matemáticas y Física.
 
 ## Perfiles sociales
 
-- [Github](https://https://github.com/ffyto)
+- [Github](https://github.com/ffyto)
 - [Linkedin](www.linkedin.com/in/carlos-mauricio-bb58441a4)
 
 ## Experiencia Tecnica

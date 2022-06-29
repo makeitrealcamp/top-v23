@@ -15,7 +15,7 @@
 - [David Steven Pineda Ordoñez](profiles/davidPineda.md)
 - [Carlos Beltrán](profiles/carlosBeltran.md)
 - [Jessica Martínez Alee](profiles/JessicaMartinez.md)
-- Carlos Mauricio Arango Ríos
+- [Carlos Mauricio Arango Ríos](profiles/mauricioArango.md)
 
 ## Como es un dia de estudio durante el programa TOP?
 
