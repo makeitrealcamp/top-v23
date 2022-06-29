@@ -5,7 +5,7 @@ Soy Jessica Martínez, Ingeniera Electrónica, Especialista en gerencia de proye
 ## Perfiles sociales
 
 - [Github](https://github.com/Jessaleem)
-- [Linkedin](www.linkedin.com/in/jessica-martínez-66262b37)
+- [Linkedin](https://www.linkedin.com/in/jessica-mart%C3%ADnez-66262b37/)
 
 
 ## Experiencia Tecnica
