@@ -67,6 +67,10 @@ Pueden ocurrir varias actividades en este rango de tiempo
 
 ## Requisitos para culminar satisfactoriamente el programa
 
+## Clases
+
+- [Video List](./classes.md)
+
 Deberás presentar y aprobar las siguienes misiones:
 
 1. Assesment Frontend.
@@ -76,7 +80,7 @@ Deberás presentar y aprobar las siguienes misiones:
 5. Proyecto Grupal.
 6. Proyecto Individual.
 
-Los lineamientos para los proyectos individuale y grupales son estos: 
+Los lineamientos para los proyectos individuale y grupales son estos:
 
 **El Proyecto Grupal debe tener:**
 
