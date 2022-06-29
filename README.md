@@ -3,7 +3,6 @@
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
 - [Cristian Moreno](profiles/mentor-principal.md)
 - Cristian Buitrago
-- Mentor 3
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 - Bryan Steeven Estrada Meza
