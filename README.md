@@ -11,7 +11,7 @@
 - Adrián Camilo Villa Jimenez
 - [Roy Andres Huaman Avila](profiles/RoyHuamanAvila.md)
 - Andrés Berrío Forero
-- Guillermo Alexander Garzón Díaz
+- [Guillermo Garzón](profiles/guillermogarzon.md)
 - David Steven Pineda Ordoñez
 - [Carlos Beltrán](profiles/carlosBeltran.md)
 - Jessica Paola Martínez Alee
