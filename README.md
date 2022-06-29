@@ -6,14 +6,16 @@
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 - Bryan Steeven Estrada Meza
-- Sergio Andres Moncada Ojara
+- [Sergio Andres Moncada Ojara](profiles/sergioMoncada.md)
 - Juan Pablo Diaz Arcila
 - [Adrián Camilo Villa Jimenez](profiles/AdrianVilla.md)
 - Roy Andres Huaman Avila
+- Adrián Camilo Villa Jimenez
+- [Roy Andres Huaman Avila](profiles/RoyHuamanAvila.md)
 - Andrés Berrío Forero
-- Guillermo Alexander Garzón Díaz
+- [Guillermo Garzón](profiles/guillermogarzon.md)
 - David Steven Pineda Ordoñez
-- Carlos Javier Beltrán Ruiloba
+- [Carlos Beltrán](profiles/carlosBeltran.md)
 - Jessica Paola Martínez Alee
 - Carlos Mauricio Arango Ríos
 
@@ -65,8 +67,12 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - **Sprint 9**: CI/CD del backend y el frontend.
 - **Sprint 10**: `DEMO Publico` 🎊🎉💻🎊🎉
 
-## Requisitos para culminar satisfactoriamente el programa
 
+## Clases
+
+- [Video List](./classes.md)
+
+## Requisitos para culminar satisfactoriamente el programa
 Deberás presentar y aprobar las siguienes misiones:
 
 1. Assesment Frontend.
@@ -76,7 +82,7 @@ Deberás presentar y aprobar las siguienes misiones:
 5. Proyecto Grupal.
 6. Proyecto Individual.
 
-Los lineamientos para los proyectos individuale y grupales son estos: 
+Los lineamientos para los proyectos individuale y grupales son estos:
 
 **El Proyecto Grupal debe tener:**
 
