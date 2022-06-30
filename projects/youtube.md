@@ -14,16 +14,31 @@ La aplicación le permite a los usuarios:
 * Embeber un video.
 * Buscar videos.
 * Subir un video.
+* Tener un perfil del usuario con sus videos.
 
 Cada video debe tener al menos:
 
-* Título
+* Título.
+* Cover o Thumbnail.
 * URL del video.
 * Fecha de publicación.
 * Descripción
 * Etiquetas
 * Número de likes
 * Número de vistas
+
+El pagina/perfil del usuario debe tener:
+
+* Cover o portada.
+* Avatar del usuario.
+* Nombre del usuario o canal.
+* Lista de los videos.
+* Redes sociales del usuario.
+
+La administracion del usuario debe tener:
+
+* Contenido del canal (videos).
+* Administrar su pagina/perfil personal. (El punto anterior)
 
 Bonus:
 

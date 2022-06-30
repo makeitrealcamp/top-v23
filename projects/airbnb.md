@@ -18,7 +18,7 @@ Los anfitriones pueden:
 * Ingresar / Salir.
 * Cambiar contraseña.
 * Recuperar contraseña.
-* Administrar sus hospedajes.
+* Administrar sus hospedajes (Crear, actualizar, borrar).
 * Ver reservas.
 
 Un hospedaje tiene al menos:
