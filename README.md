@@ -7,7 +7,7 @@
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 - [Bryan Steeven Estrada Meza](profiles/bryanEstrada.md)
 - [Sergio Andres Moncada Ojara](profiles/sergioMoncada.md)
-- Juan Pablo Diaz Arcila
+- [Juan Pablo Diaz Arcila](profiles/juanDiaz.md)
 - Adrián Camilo Villa Jimenez
 - [Roy Andres Huaman Avila](profiles/RoyHuamanAvila.md)
 - [Andrés Berrío Forero](profiles/andresBerrio.md)
