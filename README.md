@@ -10,7 +10,7 @@
 - Juan Pablo Diaz Arcila
 - Adrián Camilo Villa Jimenez
 - [Roy Andres Huaman Avila](profiles/RoyHuamanAvila.md)
-- Andrés Berrío Forero
+- [Andrés Berrío Forero](profiles/andresBerrio.md)
 - [Guillermo Garzón](profiles/guillermogarzon.md)
 - [David Steven Pineda Ordoñez](profiles/davidPineda.md)
 - [Carlos Beltrán](profiles/carlosBeltran.md)
