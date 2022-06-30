@@ -3,19 +3,18 @@
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
 - [Cristian Moreno](profiles/mentor-principal.md)
 - Cristian Buitrago
-- Mentor 3
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-- Bryan Steeven Estrada Meza
-- Sergio Andres Moncada Ojara
+- [Bryan Steeven Estrada Meza](profiles/bryanEstrada.md)
+- [Sergio Andres Moncada Ojara](profiles/sergioMoncada.md)
 - Juan Pablo Diaz Arcila
 - Adrián Camilo Villa Jimenez
-- Roy Andres Huaman Avila
+- [Roy Andres Huaman Avila](profiles/RoyHuamanAvila.md)
 - [Andrés Berrío Forero](profiles/andresBerrio.md)
-- Guillermo Alexander Garzón Díaz
-- David Steven Pineda Ordoñez
-- Carlos Javier Beltrán Ruiloba
-- Jessica Paola Martínez Alee
+- [Guillermo Garzón](profiles/guillermogarzon.md)
+- [David Steven Pineda Ordoñez](profiles/davidPineda.md)
+- [Carlos Beltrán](profiles/carlosBeltran.md)
+- [Jessica Martínez Alee](profiles/JessicaMartinez.md)
 - Carlos Mauricio Arango Ríos
 
 ## Como es un dia de estudio durante el programa TOP?
@@ -66,8 +65,12 @@ Pueden ocurrir varias actividades en este rango de tiempo
 - **Sprint 9**: CI/CD del backend y el frontend.
 - **Sprint 10**: `DEMO Publico` 🎊🎉💻🎊🎉
 
-## Requisitos para culminar satisfactoriamente el programa
 
+## Clases
+
+- [Video List](./classes.md)
+
+## Requisitos para culminar satisfactoriamente el programa
 Deberás presentar y aprobar las siguienes misiones:
 
 1. Assesment Frontend.
@@ -77,7 +80,7 @@ Deberás presentar y aprobar las siguienes misiones:
 5. Proyecto Grupal.
 6. Proyecto Individual.
 
-Los lineamientos para los proyectos individuale y grupales son estos: 
+Los lineamientos para los proyectos individuale y grupales son estos:
 
 **El Proyecto Grupal debe tener:**
 
