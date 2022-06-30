@@ -5,7 +5,7 @@ Hola, Soy Guillermo Garzón. Soy Ingeniero Mecatrónico. Actualmente me encuentr
 ## Perfiles sociales
 
 - [Github](https://github.com/GuilleGarzon)
-- [Linkedin](https://www.linkedin.com/in/uillermo-garz%C3%B3n-499094184/)
+- [Linkedin](https://www.linkedin.com/in/guillermo-garz%C3%B3n-499094184/)
 
 
 ## Experiencia Tecnica
