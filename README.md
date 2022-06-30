@@ -12,7 +12,7 @@
 - [Adrián Camilo Villa Jimenez](profiles/AdrianVilla.md)
 - [Roy Andres Huaman Avila](profiles/RoyHuamanAvila.md)
 - [Andrés Berrío Forero](profiles/andresBerrio.md)
-- [Guillermo Garzón](profiles/guillermogarzon.md)
+- [Guillermo Garzón Díaz](profiles/guillermogarzon.md)
 - [David Steven Pineda Ordoñez](profiles/davidPineda.md)
 - [Carlos Beltrán](profiles/carlosBeltran.md)
 - [Jessica Martínez Alee](profiles/JessicaMartinez.md)
