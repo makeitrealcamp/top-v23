@@ -6,7 +6,7 @@ Hola, Soy Guillermo Garzón. Soy Ingeniero Mecatrónico. Actualmente me encuentr
 
 - [Github](https://github.com/GuilleGarzon)
 - [Linkedin](https://www.linkedin.com/in/guillermo-garz%C3%B3n-499094184/)
-- [Website](https://gogole.com/)
+
 
 ## Experiencia Tecnica
 > En una escala de 1 a 5 como te sientes tecnicamente en esto temas:  ⭐️⭐️⭐️⭐️⭐️
@@ -14,5 +14,5 @@ Hola, Soy Guillermo Garzón. Soy Ingeniero Mecatrónico. Actualmente me encuentr
 - Programacion: ⭐️⭐️
 - Javascript: ⭐️⭐️
 - CSS: ⭐️⭐️
-- HTML: ⭐️⭐️
-- Git: ⭐️
+- HTML: ⭐️⭐️⭐️
+- Git: ⭐️⭐️
