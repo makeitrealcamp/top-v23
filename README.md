@@ -12,8 +12,7 @@
 - [Roy Andres Huaman Avila](profiles/RoyHuamanAvila.md)
 - Andrés Berrío Forero
 - [Guillermo Garzón](profiles/guillermogarzon.md)
-- David Steven Pineda Ordoñez
-- Carlos Javier Beltrán Ruiloba
+- [David Steven Pineda Ordoñez](profiles/davidPineda.md)
 - [Carlos Beltrán](profiles/carlosBeltran.md)
 - [Jessica Martínez Alee](profiles/JessicaMartinez.md)
 - Carlos Mauricio Arango Ríos
