@@ -1,0 +1,33 @@
+{
+  "name": "top-v23-core",
+  "version": "1.0.0",
+  "description": "Programa Top - Tiempo Completo 👩🏻‍💻🧑🏼‍💻",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "build": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makeitrealcamp/top-v23.git"
+  },
+  "keywords": [
+    "makeitreal",
+    "top-v23",
+    "fullstack"
+  ],
+  "author": "makeitreal <info@makeitreal.camp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makeitrealcamp/top-v23/issues"
+  },
+  "homepage": "https://github.com/makeitrealcamp/top-v23#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}

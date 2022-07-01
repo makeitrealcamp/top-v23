@@ -7,7 +7,7 @@ const students = [
   'Juan Pablo Diaz Arcila',
   'Adrian Camilo Villa Jimenez',
   'Roy Andres Huaman Avila',
-  'Andrés Berrio Forero',
+  'Andres Berrio Forero',
   'Guillermo Garzon',
   'David Steven Pineda',
   'Carlos Beltran',
@@ -25,18 +25,19 @@ function createFile(file, data) {
 
 students.forEach((student) => {
   const folderName = student.replaceAll(' ', '_').toLowerCase();
-  const folder = path.join(`${__dirname}/javascripting`, folderName);
+  const folder = path.join(`${__dirname}/learnyounode`, folderName);
   createFolder(folder);
 });
 
 students.forEach((student) => {
   const folderName = student.replaceAll(' ', '_').toLowerCase();
-  const folderPath = path.join(`${__dirname}/javascripting`, folderName);
+  const folderPath = path.join(`${__dirname}/learnyounode`, folderName);
 
-  const fileName = '01_introduction.js';
+  const fileName = '01_hello_word.js';
   // Route file to folder
   const filePath = path.join(folderPath, fileName);
 
   const data = `console.log('hello');`;
   createFile(filePath, data);
 });
+
