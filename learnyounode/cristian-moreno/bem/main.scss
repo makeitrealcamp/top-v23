@@ -1,0 +1,57 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px;
+  color: #333;
+  background: #eee;
+  height: 100vh;
+}
+
+.card {
+  border: 2px solid #333;
+  border-radius: 5px;
+  padding: 10px;
+
+  &__image {
+    width: 100%;
+    height: auto;
+    text-align: center;
+  }
+
+  &__description {
+    text-align: left;
+    font-size: 1.5rem;
+  }
+
+  &__footer {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  &__button {
+    border: none;
+    background-color: #333;
+    color: #eee;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 10px;
+    text-transform: uppercase;
+
+    &:hover {
+      background-color: #eee;
+      color: #333;
+    }
+
+    &--primary {
+      background-color: #0074D9;
+
+      &:hover {
+        background-color: #0059bc;
+      }
+    }
+  }
+}

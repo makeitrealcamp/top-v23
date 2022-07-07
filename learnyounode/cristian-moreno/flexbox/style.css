@@ -1,0 +1,26 @@
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+  border: 2px dashed #999;
+  height: 400px;
+}
+
+
+.item {
+  background-color: blueviolet;
+  height: 100px;
+  margin: 10px;
+  /* width: 100px; */
+  flex-basis: 100px;
+}
+
+.fancy {
+  order: 3;
+  flex-shrink: 20;
+}
+
+
