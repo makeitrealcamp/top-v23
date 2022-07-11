@@ -21,7 +21,7 @@
 - **Fundamentos de Testing**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-07/uXHFZuj1G.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-07/uXHFZuj1G.mp4)
 - **Ejercicios de testing**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-08/lMp0wxG6D.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-08/lMp0wxG6D.mp4)
 - **Eslint y editorConfig:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-08/ZAi1n8d4t.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-08/ZAi1n8d4t.mp4)
-- **ENTREGABLE**:
+- **ENTREGABLE**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-11/Gb_twydeO.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-11/Gb_twydeO.mp4)
 
 ## Sprint 3:
 
