@@ -1,41 +1,34 @@
 // 1. importar el useState
 import { useState } from 'react';
 
+import Amount from './components/Split/Amount';
+import Buttons from './components/Split/Buttons';
+import Result from './components/Split/Result';
+
 import './App.css';
 
-const countries = [
-  'argentina',
-  'chile',
-  'uruguay',
-  'paraguay',
-  'colombia',
-]
-
 function App() {
-  const [country, setCountry] = useState('');
+  const [amount, setAmount] = useState(0);
+  const [total, setTotal] = useState(0);
 
-  const handleChange = (e) => {
-    setCountry(e.target.value);
+  const handleIncrease = () => {
+    setTotal(total + amount);
+  }
+
+  const handleDecrease = () => {
+    setTotal(total - amount);
   }
 
   return (
     <div className="App-header">
+      <Amount setAmount={setAmount} />
 
-      <select name="countries" onChange={handleChange}>
-        <option value="" selected>Select a country</option>
-        {
-          countries.sort().map(country => (
-            <option key={country} value={country}>{country.toUpperCase()}</option>
-          ))
-        }
-      </select>
+      <Buttons
+        handleIncrease={handleIncrease}
+        handleDecrease={handleDecrease}
+      />
 
-      {
-        country !== ''
-          ? <h1> Tu destino es: {country} </h1>
-          : null
-      }
-
+      <Result total={total} />
     </div>
   );
 }
