@@ -1,12 +1,8 @@
 // 1. importar el useState
 import { useState } from 'react';
 
-
-import './App.css';
-
-function App() {
+function RandomColors() {
   const [colors, setColors] = useState(['orange','blue']);
-
 
   const randomColorsHexa = () => {
     const color = '#' + Math.floor(Math.random() * 16777215).toString(16);
@@ -49,4 +45,4 @@ function App() {
   );
 }
 
-export default App;
+export default RandomColors;
