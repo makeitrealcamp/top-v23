@@ -1,16 +1,22 @@
-import React from 'react'
+import React, { useState } from 'react'
 
-import Header from '../components/Header'
+import { getProducts  } from '../services/products'
+
+import Card from '../components/Card'
+
 
 const HomePage = () => {
-  return(
-    <div>
-      {/* Header */}
-      <Header />
-      {/* Main */}
+  const [products, setProducts] = useState(getProducts())
 
-      {/* Footer */}
-    </div>
+  return(
+    <main className="App-header">
+      <h1>Products List</h1>
+      {
+        products.map(product => (
+          <Card key={product.id} product={product} />
+        ))
+      }
+    </main>
   )
 }
 

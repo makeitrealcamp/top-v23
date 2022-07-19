@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 
 const Header = () => {
   const randomId = () => {
@@ -9,8 +9,20 @@ const Header = () => {
   return(
     <nav>
       <ul>
-        <li><Link to="/">Home</Link></li>
-        <li><Link to={`/detail/${randomId()}`}>Detail</Link></li>
+        <li><NavLink to="/">Home</NavLink></li>
+        <li>
+          <NavLink
+            to={`/product/2`}
+            style={({ isActive }) => {
+              console.log("🚀 ~ file: Header.jsx ~ line 21 ~ Header ~ isActive", isActive)
+              return {
+                color: isActive ? 'red' : 'black'
+              }
+            }}
+          >
+              Detail
+          </NavLink>
+        </li>
       </ul>
     </nav>
   )

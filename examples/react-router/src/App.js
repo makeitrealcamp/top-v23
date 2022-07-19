@@ -1,25 +1,26 @@
 import {
-  BrowserRouter,
   Routes,
   Route,
 } from "react-router-dom";
 
+import Header from "./components/Header";
 import HomePage from "./pages/Home";
-import VideoDetailPage from "./pages/VideoDetail";
+import ProductDetailPage from "./pages/ProductDetail";
+import TodosPage from "./pages/Todos";
 
 import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <>
+      <Header />
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/profile/:userName" element={<HomePage />} />
-        <Route path="/about" element={<HomePage />} />
-        <Route path="/detail/:id" element={<VideoDetailPage />} />
-
+        <Route path="/todos" element={<TodosPage />} />
+        <Route path="/product/:id" element={<ProductDetailPage />} />
       </Routes>
-    </BrowserRouter>
+    </>
+
   );
 }
 
