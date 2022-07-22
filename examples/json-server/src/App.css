@@ -1,0 +1,145 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.hero__Wrapper {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: calc(50vh - 60px);
+  justify-content: center;
+  position: relative;
+  text-align: center;
+}
+
+h1.jiKqlM {
+  border: none;
+  color: rgb(32, 35, 41);
+  font-size: 3.75rem;
+  font-weight: 900;
+  margin: 0px;
+  z-index: 1;
+}
+
+.hero-image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.hero-image svg {
+  width: 100%;
+  height: 100%;
+  fill: rgb(245, 245, 245);
+}
+
+svg:not(:root) {
+  overflow: hidden;
+}
+
+.showcase__Wrapper {
+  align-items: center;
+  background: rgb(32, 35, 41);
+  display: flex;
+  justify-content: center;
+  min-height: calc(50vh - 60px);
+  padding: 4.5rem 0px;
+}
+
+.showcase__Inner {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1920px;
+}
+
+.characterCard__Wrapper {
+  background: rgb(60, 62, 68);
+  border-radius: 0.5rem;
+  box-shadow: rgb(0 0 0 / 10%) 0px 4px 6px -1px, rgb(0 0 0 / 6%) 0px 2px 4px -1px;
+  display: flex;
+  height: 220px;
+  margin: 0.75rem;
+  overflow: hidden;
+  width: 600px;
+}
+
+.characterCard__ImgWrapper {
+  flex: 2 1 0%;
+  width: 100%;
+}
+
+.characterCard__ImgWrapper img {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  opacity: 1;
+  transition: opacity 0.5s ease 0s;
+  object-position: center center;
+  object-fit: cover;
+}
+
+.characterCard__ContentWrapper {
+  flex: 3 1 0%;
+  position: relative;
+  padding: 0.75rem;
+  color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+}
+
+.characterCard__ContentWrapper .section:first-child {
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+}
+
+.characterCard__ContentWrapper a {
+  color: rgb(245, 245, 245);
+}
+
+.characterCard__ContentWrapper h2 {
+  font-size: 1.5rem;
+  padding-bottom: 10px;
+}
+
+.characterCard__ContentWrapper .section {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 0%;
+}
+
+.characterCard__ContentWrapper .status {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  text-transform: capitalize;
+}
+
+.characterCard__ContentWrapper span {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.characterCard__ContentWrapper .status__icon {
+  height: 0.5rem;
+  width: 0.5rem;
+  margin-right: 0.375rem;
+  background: rgb(214, 61, 46);
+  border-radius: 50%;
+}
+
+.text-gray {
+  color: rgb(158, 158, 158);
+}
+
+.text-white {
+  color: rgb(255, 255, 255);
+}
