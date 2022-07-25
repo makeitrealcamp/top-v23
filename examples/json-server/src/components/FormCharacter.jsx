@@ -1,6 +1,6 @@
-import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 
+import useForm from '../hooks/useForm'
 import { createCharacter } from '../services/characters'
 
 const status = [
@@ -35,11 +35,7 @@ const origins = [
 ]
 
 const FormCharacter = () => {
-  const [form, setName] = useState({})
-
-  const handleChange = (e) => {
-
-  }
+  const [form, handleChange] = useForm({})
 
   const handleSubmit = async (e) => {
     e.preventDefault()
@@ -48,7 +44,8 @@ const FormCharacter = () => {
 
 
     // after creating a new character redirect to the characters page
-    // createCharacter(form)
+    // await createCharacter(form)
+    console.log(form)
   }
 
   return(
@@ -56,16 +53,16 @@ const FormCharacter = () => {
       <h1>Create a new character</h1>
       <br />
       <br />
-      <form>
+      <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="name">Name</label>
           <br />
-          <input type="text" className="form-control" id="name" placeholder="Enter name" />
+          <input type="text" className="form-control" id="name" name="name" placeholder="Enter name" onChange={handleChange} />
         </div>
         <div className="form-group">
           <label htmlFor="status">Status</label>
           <br />
-          <select name="status" id="status">
+          <select name="status" id="status" onChange={handleChange}>
             <option value="">Select option</option>
             {status.map(status => (
               <option key={status} value={status}>{status}</option>
@@ -75,7 +72,7 @@ const FormCharacter = () => {
         <div className="form-group">
           <label htmlFor="species">Specie</label>
           <br />
-          <select name="species" id="species">
+          <select name="species" id="species" onChange={handleChange}>
             <option value="">Select option</option>
             {species.map(specie => (
               <option key={specie} value={specie}>{specie}</option>
@@ -85,7 +82,7 @@ const FormCharacter = () => {
         <div className="form-group">
           <label htmlFor="origin">Origin</label>
           <br />
-          <select name="origin" id="origin">
+          <select name="origin" id="origin" onChange={handleChange}>
             <option value="">Select option</option>
             {origins.map(origin => (
               <option key={origin.id} value={origin.id}>{origin.name}</option>

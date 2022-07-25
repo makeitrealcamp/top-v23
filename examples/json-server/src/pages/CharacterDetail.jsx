@@ -1,6 +1,7 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
-const CharacterDetailPage = () => {
+const CharacterDetailPage = (props) => {
+
   return(
     <div>
       <h1>CharacterDetailPage</h1>
