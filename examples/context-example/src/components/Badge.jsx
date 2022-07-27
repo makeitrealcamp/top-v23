@@ -1,8 +1,10 @@
-import React from 'react'
+import { useContextCounter } from './ContextCounter'
 
-const Badge = (props) => {
+const Badge = () => {
+  const context = useContextCounter()
+
   return(
-    <span className="badge">3</span>
+    <span className="badge">{context.count}</span>
   )
 }
 

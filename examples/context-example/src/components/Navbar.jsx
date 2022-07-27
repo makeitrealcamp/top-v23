@@ -1,6 +1,6 @@
 import Badge from './Badge'
 
-const Navbar = (props) => {
+const Navbar = () => {
   return(
     <nav>
       <div className="container">
