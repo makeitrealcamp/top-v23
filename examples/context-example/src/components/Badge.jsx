@@ -1,10 +1,8 @@
-import { useContextCounter } from './ContextCounter'
-
+import { useAppContext } from '../store'
 const Badge = () => {
-  const context = useContextCounter()
-
+  const { state } = useAppContext();
   return(
-    <span className="badge">{context.count}</span>
+    <span className="badge">{state.cart.length}</span>
   )
 }
 
