@@ -1,24 +1,29 @@
-import { createContext, useReducer } from "react";
+import { createContext, useReducer, useContext } from "react";
 
-const initialState = {
-  candies: [],
-  candy1: 0,
-  candy2: 0,
-  candy3: 0,
-  total: 0,
+import { reducer, initialState } from "./reducer";
+
+// a.k.a. Store/state
+const Context = createContext();
+
+export const Provider = ({ children }) => {
+  const [state, dispatch] = useReducer(reducer, initialState);
+
+  return (
+    <Context.Provider value={{ state, dispatch }}>
+      {children}
+    </Context.Provider>
+  );
 }
 
-const reducer = (state = initialState, action) => {
-  switch (action.type) {
-    case 'ADD_VOTE_CANDY1': {
-      return  {
-        ...state,
-        candy1: state.candy1 + 1,
-      }
-    }
+export const useAppContext = () => {
+  const context = useContext(Context);
 
-    default:
-      break;
+  if (!context) {
+    throw new Error("useAppContext must be used within a Provider");
   }
-  console.log(action);
+
+  return context;
 }
+
+
+export default Context;

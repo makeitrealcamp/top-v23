@@ -4,9 +4,7 @@ import {
   ADD_VOTE_CANDY3,
 } from './types';
 
-// 4. Crear el Initial State
-// Casi siempre sera un objecto
-const initialState = {
+export const initialState = {
   candies: [],
   candy1: 0,
   candy2: 0,
@@ -14,11 +12,7 @@ const initialState = {
   total: 0,
 }
 
-// 3. Crear el reducer
-// El reducer es una funcion q recibe el estado actual y la accion
-// El estado actual, en la primera ejecucion es undefined
-// por eso necesitamos tener un estado inicial para asignarlo como valor por defecto -> 4.
-const reducer = (state = initialState, action) => {
+export const reducer = (state = initialState, action) => {
   const { candy1, candy2, candy3 } = state;
 
   switch (action.type) {
@@ -52,4 +46,4 @@ const reducer = (state = initialState, action) => {
   }
 }
 
-export default reducer;
+
