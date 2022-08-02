@@ -1,0 +1,4 @@
+export const ADD_VOTE_CANDY1 = 'ADD_VOTE_CANDY1';
+export const ADD_VOTE_CANDY2 = 'ADD_VOTE_CANDY2';
+export const ADD_VOTE_CANDY3 = 'ADD_VOTE_CANDY3';
+
