@@ -49,3 +49,5 @@
 - **React Context - useContext:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-26/M4FeKkjFk.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-26/M4FeKkjFk.mp4)
 - **React Context Ejercicios:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-27/KD4x64AuW.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-27/KD4x64AuW.mp4)
 - **Usar React Context de manera efectiva:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-27/e7GhRDED8.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-27/e7GhRDED8.mp4)
+- **Introducción a Redux**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-01/5GtOnwDu1.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-01/5GtOnwDu1.mp4)
+- **Ejercicio Redux**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-02/SbVNInT0a.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-02/SbVNInT0a.mp4)
