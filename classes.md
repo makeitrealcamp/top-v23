@@ -66,3 +66,9 @@
 ## Sprint 6
 
 - **Autenticación con bcrypt:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-09/LAINMsHpO.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-09/LAINMsHpO.mp4)
+- **Autorización con JWT** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-09/LddYiDziR.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-09/LddYiDziR.mp4)
+- **Middleware autentificación:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-10/rYdKBoHHl.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-10/rYdKBoHHl.mp4)
+- **Clases y Prototipos:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-11/hzQ7jCFCx.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-11/hzQ7jCFCx.mp4)
+- **Typescript**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-11/KXzU1s1IQ.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-11/KXzU1s1IQ.mp4)
+- **TypreScript Nodejs:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-12/tJQJfFte8.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-12/tJQJfFte8.mp4)
+- **Heroku**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-12/lRMn3df9Y.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-12/lRMn3df9Y.mp4)
