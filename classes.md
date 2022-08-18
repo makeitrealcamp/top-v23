@@ -51,3 +51,24 @@
 - **Usar React Context de manera efectiva:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-27/e7GhRDED8.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-07-27/e7GhRDED8.mp4)
 - **Introducción a Redux**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-01/5GtOnwDu1.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-01/5GtOnwDu1.mp4)
 - **Ejercicio Redux**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-02/SbVNInT0a.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-02/SbVNInT0a.mp4)
+
+## Sprint 5
+
+- **Introducción a bases de datos:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-02/yTkfAAZpt.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-02/yTkfAAZpt.mp4)
+- **MongoDB**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-03/WjW04iIKv.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-03/WjW04iIKv.mp4)
+- **Diseño de Bases de Datos:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-03/Vm-rp5ioH.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-03/Vm-rp5ioH.mp4)
+- **Introducción a express.js:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-04/ssG87WwQR.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-04/ssG87WwQR.mp4)
+- **Estructurando un proyecto en express:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-05/dIUyiqobf.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-05/dIUyiqobf.mp4)
+- **Creación de API’s con Express (CRUD) con Mongoose:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-05/_7ZLCTwGE.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-05/_7ZLCTwGE.mp4)
+- **Campos virtuales y hooks en mongoose (bcrypt)** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-08/eE9jzxI9s.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-08/eE9jzxI9s.mp4)
+- **ENTREGABLE**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-08/Io7HnG4nb.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-08/Io7HnG4nb.mp4)
+
+## Sprint 6
+
+- **Autenticación con bcrypt:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-09/LAINMsHpO.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-09/LAINMsHpO.mp4)
+- **Autorización con JWT** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-09/LddYiDziR.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-09/LddYiDziR.mp4)
+- **Middleware autentificación:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-10/rYdKBoHHl.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-10/rYdKBoHHl.mp4)
+- **Clases y Prototipos:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-11/hzQ7jCFCx.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-11/hzQ7jCFCx.mp4)
+- **Typescript**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-11/KXzU1s1IQ.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-11/KXzU1s1IQ.mp4)
+- **TypreScript Nodejs:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-12/tJQJfFte8.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-12/tJQJfFte8.mp4)
+- **Heroku**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-12/lRMn3df9Y.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-12/lRMn3df9Y.mp4)
