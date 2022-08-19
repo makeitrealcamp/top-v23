@@ -6,6 +6,12 @@ const users = [
   }
 ]
 
+/**
+ * Get all users
+ * @param {Object} req Request object
+ * @param {Object} res Response object
+ * @returns a list of users
+ */
 function getAllUsers(req, res){
   return res.json(users)
 }
