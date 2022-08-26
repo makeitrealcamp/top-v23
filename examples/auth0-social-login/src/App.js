@@ -22,7 +22,17 @@ function App() {
             <button onClick={logout}> Logout </button>
           </>
         ) : (
-          <button onClick={loginWithRedirect}> Login </button>
+          <>
+            <button onClick={loginWithRedirect}>
+              Login Default Auth0
+            </button>
+            <button onClick={() => loginWithRedirect({connection: "google-oauth2"})}>
+              Login Google
+            </button>
+            <button onClick={() => loginWithRedirect({ connection: 'facebook' })}>
+              Login Facebook
+            </button>
+          </>
         )
       }
     </div>
