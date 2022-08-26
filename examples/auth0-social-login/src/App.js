@@ -23,7 +23,7 @@ function App() {
           </>
         ) : (
           <>
-            <button onClick={loginWithRedirect}>
+            <button onClick={() => loginWithRedirect()}>
               Login Default Auth0
             </button>
             <button onClick={() => loginWithRedirect({connection: "google-oauth2"})}>
