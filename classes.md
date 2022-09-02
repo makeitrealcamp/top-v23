@@ -72,3 +72,32 @@
 - **Typescript**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-11/KXzU1s1IQ.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-11/KXzU1s1IQ.mp4)
 - **TypreScript Nodejs:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-12/tJQJfFte8.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-12/tJQJfFte8.mp4)
 - **Heroku**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-12/lRMn3df9Y.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-12/lRMn3df9Y.mp4)
+- **Conenctando el backend con el frontend: Login** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-16/AUyOO9OK5.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-16/AUyOO9OK5.mp4)
+- **ENTREGABLE**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-16/MMULSjiaT.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-16/MMULSjiaT.mp4)
+
+## Sprint 7
+
+- **NodeMailer**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-17/3dKAddJgf.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-17/3dKAddJgf.mp4)
+- **Sendgrid y Activar cuenta:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-17/ZKRT_zDI0.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-17/ZKRT_zDI0.mp4)
+- **Enviar imagenes al servidor y subirlas a cloudinary:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-18/0kpR8hNUd.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-18/0kpR8hNUd.mp4)
+- **Documentar una API con swagger:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-19/5VxnLrcIl.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-19/5VxnLrcIl.mp4)
+- **TDD** **y JEST**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-19/FM_YQvQTs.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-19/FM_YQvQTs.mp4)
+- **ENTREGABLE**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-22/DCIWPYm-c.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-22/DCIWPYm-c.mp4)
+
+## Sprint 8
+
+- **Repaso de redux:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-22/8Hx2L_73D.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-22/8Hx2L_73D.mp4)
+- **Redux Thunk y CombineReducers:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-23/tfKMsBekb.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-23/tfKMsBekb.mp4)
+- **Redux Tool Kit - RTK:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-23/maFIEPHXz.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-23/maFIEPHXz.mp4)
+- **Testing e2e con cypress.js:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-24/PaU2ndXvi.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-24/PaU2ndXvi.mp4)
+- **Testing Library - Conceptos:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-24/Rk5EJhqWF.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-24/Rk5EJhqWF.mp4)
+- **Pasarela de pagos - Stripe:**  [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-25/2gZ2SryRg.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-25/2gZ2SryRg.mp4)
+- **Stripe dentro del proyecto de backend:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-25/u2QjIeVCU.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-25/u2QjIeVCU.mp4)
+- **OAuth 2.0 - auth0:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-26/1yOep8Jqi.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-26/1yOep8Jqi.mp4)
+- **React Typescript**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-26/wl6LcEOwE.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-26/wl6LcEOwE.mp4)
+- **ENTREGABLE** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-29/Z61fhXGum.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-29/Z61fhXGum.mp4)
+
+## Sprint 9
+
+- **Componentes de clase React**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-29/ZZf-Qfef-.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-29/ZZf-Qfef-.mp4)
+- **CI & CD en Javascript**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-30/biIo4XnVm.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-30/biIo4XnVm.mp4)
