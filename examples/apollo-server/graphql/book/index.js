@@ -4,7 +4,8 @@ const {
   getSingleBook,
  } = require('./book.service')
 
-async function getAllBookHandler(parent, args) {
+async function getAllBookHandler(parent, args, ctx) {
+  console.log("🚀 ~ file: index.js ~ line 8 ~ getAllBookHandler ~ ctx", ctx)
   const books = await getAllBooks()
 
   return books
@@ -18,8 +19,12 @@ async function getSingleBookHandler(parent, args) {
   return book
 }
 
-async function addBookHandler(parent, args) {
+async function addBookHandler(parent, args, context) {
   const { title, author, type } = args.input
+
+  if (!context.currentUser) {
+    throw new Error('You must be logged in to add a book')
+  }
 
   const book = {
     title,

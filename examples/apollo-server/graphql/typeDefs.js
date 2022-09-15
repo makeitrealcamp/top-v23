@@ -15,6 +15,12 @@ const typeDefs = gql`
     type: BookType!
   }
 
+  input CreateCustomerInput {
+    username: ID!
+    name: String!
+    password: String!
+  }
+
   # This "Book" type can be used in other type declarations.
   type Book {
     "The Id of the book"
@@ -49,6 +55,11 @@ const typeDefs = gql`
     updatedAt: String!
   }
 
+  type LoginPayload {
+    token: String!
+    customer: Customer!
+  }
+
   type Query {
     "A simple type for getting started!"
     hello: String!
@@ -58,12 +69,24 @@ const typeDefs = gql`
 
     "Get a book by title"
     singleBook(title: String!): Book
+
+    "Get all customers"
+    allCustomers: [Customer]
+
+    "Total number of customers"
+    totalCustomers: Int!
   }
 
   type Mutation {
     "Add a book"
     addBook(input: CreateBookInput!): Book!
     # addBook(title: String!, author: String!, type: BookType!): Book
+
+    "Create a new customer account"
+    createAccount(input: CreateCustomerInput!): Customer!
+
+    "Login to an existing customer account"
+    login(username: ID!, password: String!): LoginPayload!
   }
 `
 

@@ -1,11 +1,13 @@
 const Customer = require('./customer.model');
 
+const { signToken } = require('../../auth/auth.service');
+
 async function getAllCustomers() {
   return await Customer.find();
 }
 
 async function getFindCustomers(query) {
-  return await Customer.find(query);
+  return await Customer.findOne(query);
 }
 
 async function getCustomerById(id) {
@@ -28,6 +30,27 @@ async function getTotalCustomers(query) {
   return await Customer.find(query).countDocuments();
 }
 
+async function loginAccount(username, password) {
+  const customer = await Customer.findOne({ username });
+
+  if (!customer) {
+    throw new Error('Customer not found');
+  }
+
+  const isMatch = await customer.comparePassword(password);
+
+  if (!isMatch) {
+    throw new Error('Invalid password');
+  }
+
+  const token = signToken(customer.username);
+
+  return {
+    token,
+    customer,
+  }
+}
+
 module.exports = {
   getAllCustomers,
   getFindCustomers,
@@ -36,4 +59,5 @@ module.exports = {
   updateCustomer,
   deleteCustomer,
   getTotalCustomers,
+  loginAccount,
 }
