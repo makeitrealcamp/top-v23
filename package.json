@@ -25,10 +25,16 @@
   },
   "homepage": "https://github.com/makeitrealcamp/top-v23#readme",
   "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "@prisma/client": "^4.3.1",
+    "apollo-server-micro": "^3.10.2",
+    "graphql": "^16.6.0",
+    "micro-cors": "^0.1.1",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.18"
+    "nodemon": "^2.0.18",
+    "prisma": "^4.3.1"
   },
   "volta": {
     "node": "16.17.0"
