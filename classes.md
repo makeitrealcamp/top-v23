@@ -101,3 +101,35 @@
 
 - **Componentes de clase React**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-29/ZZf-Qfef-.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-29/ZZf-Qfef-.mp4)
 - **CI & CD en Javascript**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-30/biIo4XnVm.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-30/biIo4XnVm.mp4)
+- **Asesoria 1**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-31/x5Lf24yTK.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-31/x5Lf24yTK.mp4)
+- **Asesoria 2**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-31/fkuAAmQAr.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-08-31/fkuAAmQAr.mp4)
+- **Docker**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-01/HBhZTwgXX.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-01/HBhZTwgXX.mp4)
+- **Docker para bases de datos:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-02/QgnJih84T.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-02/QgnJih84T.mp4)
+- **Asesoria 3**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-02/UUum6_zdD.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-02/UUum6_zdD.mp4)
+
+## Sprint 10
+
+- **Introduccion a React Native:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-05/G6uAP34lH.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-05/G6uAP34lH.mp4)
+- **Run React Native con Expo:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-05/RQOrhFNsF.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-05/RQOrhFNsF.mp4)
+- **Componentes React Native (Core - Community):** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-06/R4CVyFM9d.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-06/R4CVyFM9d.mp4)
+- **Networking y Async Storage - React Native:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-07/t0vhL2JrE.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-07/t0vhL2JrE.mp4)
+- **ReactNavigation - Enrutamiento para React Native:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-07/BfYk0Igd9.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-07/BfYk0Igd9.mp4)
+- **Sensores - imágenes, cámara, mapa, location:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-08/cb5aHqaFO.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-08/cb5aHqaFO.mp4)
+- **PRE-DEMO**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-09/kmqbLUsUO.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-09/kmqbLUsUO.mp4)
+
+## Sprint 11
+
+- **Intro a Next.js:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-12/X1Nr6p14B.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-12/X1Nr6p14B.mp4)
+- **Introducción a GraphQL - P1**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-13/hY4K4kjeu.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-13/hY4K4kjeu.mp4)
+- **Introducción a GraphQL - P2**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-13/79jyhZYgn.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-13/79jyhZYgn.mp4)
+- **Apollo Client - Query:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-14/nExl81jT8.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-14/nExl81jT8.mp4)
+- **Apollo Client - Mutations:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-14/o8qgdUmr9.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-14/o8qgdUmr9.mp4)
+- **Apollo Server - typeDefs & Resolvers:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-15/-m7oS63br.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-15/-m7oS63br.mp4)
+- **Apollo Server - Context:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-15/uy7RFsRLE.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-15/uy7RFsRLE.mp4)
+
+## Sprint 12
+
+- **Sequelize ORM:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-16/be_eMaV-j.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-16/be_eMaV-j.mp4)
+- **Prisma ORM**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-16/IcGb-GLb-.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-16/IcGb-GLb-.mp4)
+- **Serverless**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-19/jLNn1KSwg.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-19/jLNn1KSwg.mp4)
+- **Firebase - Cloud Functions:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-20/ATmkZhfqP.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-20/ATmkZhfqP.mp4)
