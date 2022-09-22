@@ -133,3 +133,8 @@
 - **Prisma ORM**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-16/IcGb-GLb-.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-16/IcGb-GLb-.mp4)
 - **Serverless**: [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-19/jLNn1KSwg.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-19/jLNn1KSwg.mp4)
 - **Firebase - Cloud Functions:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-20/ATmkZhfqP.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-20/ATmkZhfqP.mp4)
+- **Headless CMS:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-21/A__VuN_Rv.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-21/A__VuN_Rv.mp4)
+- **Websockets**: [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-26/GtzQrJHS6.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-26/GtzQrJHS6.mp4)
+- **Socket.io** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-26/97OYIS5R6.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-26/97OYIS5R6.mp4)
+- **Socket React - Node Folder:** [https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-27/0ZkS2iLZ2.mp4](https://makeitreal.s3.amazonaws.com/videos/85737501506/2022-04-27/0ZkS2iLZ2.mp4)
+- **GatsbyJS - Static Site Generator:** [https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-22/SWqeo0D3L.mp4](https://makeitreal.s3.amazonaws.com/videos/82849368839/2022-09-22/SWqeo0D3L.mp4)
